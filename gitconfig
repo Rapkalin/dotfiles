@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Raphael@myminicom.com
+	name = Raphael Kalinowski
