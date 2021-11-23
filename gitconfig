@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = Raphael@myminicom.com
+	email = raphael@myminicom.com
 	name = Raphael Kalinowski
